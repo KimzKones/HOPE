@@ -1,0 +1,31 @@
+.flexbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkseagreen;
+}
+
+.flexbox > div {
+    margin: 0px;
+    padding: 1px;
+}
+
+h1{
+    color: darkgreen;
+    font-family: serif;
+    text-align: center
+}
+
+h2{
+    text-align: center;
+    color: black;
+    
+}
+
+body{
+    background-color: darkseagreen;
+}
+
+p{
+    font-weight: 100;
+}
